@@ -5,9 +5,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ton_username&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ton_username)
+![Starstruck](https://github-profile-achievements.github.io/badges/starstruck.svg)
 
 <!--
 **PierreNa/PierreNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
