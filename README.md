@@ -19,6 +19,9 @@ I design, deploy and operate scalable infrastructures for both **cloud-native** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![HashiCorp Packer](https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white)
 
 #### 📊 Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
