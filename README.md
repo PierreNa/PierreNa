@@ -21,7 +21,7 @@ I design, deploy and operate scalable infrastructures for both **cloud-native** 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![HashiCorp Packer](https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white)
+![HashiCorp Packer](https://img.shields.io/badge/-Packer-2496ED?style=flat-square&logo=packer&logoColor=white)
 
 #### 📊 Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
